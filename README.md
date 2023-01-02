@@ -58,7 +58,7 @@ git clone https://github.com/kxkx5150/linux-0.11.git
 
 <br>
 
-Haribote OS
+Haribote OS (はりぼて OS)
 ```
 git clone https://github.com/kxkx5150/Haribote-OS-VNC.git
 ```
