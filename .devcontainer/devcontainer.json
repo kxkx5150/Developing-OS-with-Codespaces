@@ -40,7 +40,9 @@
 
 	"runArgs": [
 		"--privileged",
-		"--disable-content-trust=true"
+		"--disable-content-trust=true",
+		"-e", 
+		"EXTRA=\"-display none\""
 	]
 }    
 
